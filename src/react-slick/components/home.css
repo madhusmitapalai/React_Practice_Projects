@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: rgb(5, 201, 158);
+}
+.cards{
+    width: 500px;
+    max-width: 100%;
+}
